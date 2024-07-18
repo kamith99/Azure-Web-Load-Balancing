@@ -1,4 +1,4 @@
-# Azure-Load-Balancing-Project
+# Azure-Web-Load-Balancing
 Project to set up load balancing for websites using Azure services.
 
 ## Project Components
