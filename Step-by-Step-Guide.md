@@ -10,4 +10,6 @@ cd Azure-Web-Load-Balancing
 ### Step 2: Create Resource Group
 Create a resource group that will be the logical container for all your resources.
 
-```az group create --name project1-project2-rg --location eastus ```
+```sh
+az group create --name project1-project2-rg --location eastus ```
+
