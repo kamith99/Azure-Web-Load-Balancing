@@ -34,7 +34,7 @@ In this project, we will investigate and construct an architecture using the fol
   - [Create a Private Zone Tutorial](https://learn.microsoft.com/en-us/azure/dns/private-dns-getstarted-portal)
   
 - **Project Topology**
-  - [Download Topology](Media/topology-diagram.png) (Provide the link to the topology file)
+  - [Download Topology](Media/topology-diagram.png)
   
 
 ## Project Instructions
